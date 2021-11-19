@@ -35,7 +35,7 @@ Add a comment to your `README.md` like this:
 ```md
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
        ```
